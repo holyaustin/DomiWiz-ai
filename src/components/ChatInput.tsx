@@ -34,7 +34,7 @@ export const ChatInput: React.FC<ChatInputProps> = ({ onSendMessage }) => {
             //type="text"
             value={message}
             onChange={(e) => setMessage(e.target.value)}
-            placeholder="Paste article, project or write-up..."
+            placeholder="My name is DomiWiz. How can i help you?."
             className="flex-1 bg-transparent outline-none"
           ></textarea>
           <button
