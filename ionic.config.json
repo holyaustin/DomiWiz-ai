@@ -1,5 +1,7 @@
 {
   "name": "andooid-one",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react-vite"
 }
