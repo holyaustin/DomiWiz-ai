@@ -9,7 +9,7 @@ const client = new OpenAI({
 export const sendMessage = async (content: string) => {
   try {
     const response = await client.chat.completions.create({
-      model: 'nvidia-Llama-3-1-Nemotron-70B-Instruct-HF',
+      model: 'Meta-Llama-3-2-3B-Instruct',
       messages: [
         {
           role: 'system',
