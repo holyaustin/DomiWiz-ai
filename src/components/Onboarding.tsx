@@ -36,7 +36,7 @@ export const Onboarding: React.FC<OnboardingProps> = ({ onComplete }) => {
   return (
     <div className="min-h-screen bg-blue-600 flex flex-col items-center justify-center p-4">
       <div className="text-white mr-4 pb-14 text-center w-full max-w-md text-4xl font-extrabold">
-        <h1>GoogleChat.AI</h1>
+        <h1>DomiWiz.AI</h1>
       </div>
       <div className="bg-white rounded-2xl p-8 w-full max-w-md">
         <h1 className="text-2xl font-bold text-gray-800 mb-6 text-center">
