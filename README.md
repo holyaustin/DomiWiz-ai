@@ -52,3 +52,5 @@ Ready to Dive In? Visit <https://DomiWiz.vercel.app/> to start your conversation
 DomiWiz.ai is licensed under the MIT License, which allows for flexibility and freedom in usage. This open-source license lets users freely use, modify, and distribute the software, encouraging collaboration and innovation within the community.
 
 ---
+## Convert existing react app to mobile with capacitor
+https://medium.com/@dev.sreerages/building-cross-platform-mobile-apps-with-react-vite-and-capacitorjs-dbaa1f9f061c

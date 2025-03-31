@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">andooid-one</string>
-    <string name="title_activity_main">andooid-one</string>
-    <string name="package_name">io.ionic.starter</string>
-    <string name="custom_url_scheme">io.ionic.starter</string>
+    <string name="app_name">domiwiz</string>
+    <string name="title_activity_main">domiwiz</string>
+    <string name="package_name">com.holyaustin.domiwiz</string>
+    <string name="custom_url_scheme">com.holyaustin.domiwiz</string>
 </resources>

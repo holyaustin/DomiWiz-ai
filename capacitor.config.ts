@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'andooid-one',
+  appId: 'com.holyaustin.domiwiz',
+  appName: 'domiwiz',
   webDir: 'dist'
 };
 
